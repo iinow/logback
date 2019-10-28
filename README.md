@@ -1,7 +1,5 @@
 # logback 작성법 
 
-:star_struck:
-
 위 프로젝트는 logback.groovy 로 작성되어 있습니다. 
 
 - groovy 로 작성하기 위해서는 위 groovy 의존 모듈을 받아야 합니다.
@@ -62,5 +60,5 @@ root(INFO, ['console', 'file'])
 - xml 과는 다르게 자동 완성 나온다 대신 gradle 에 groovy 의존 모듈 추가를 해야한다.
 
 
-:smiley_cat: :smiley_cat: :smiley_cat:
+:star_struck: :smiley_cat: :smiley_cat: :smiley_cat:
 
