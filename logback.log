@@ -1,0 +1,32 @@
+2019-10-28 15:39:28.457 [35mINFO [0;39m -6 1119 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - Starting LogbackApplication on DESKTOP-ILCGKPF with PID 12184 (E:\DEV\sts\logback\bin\main started by BISHOP in E:\DEV\sts\logback)
+2019-10-28 15:39:28.460 [35mINFO [0;39m -6 1122 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - No active profile set, falling back to default profiles: default
+2019-10-28 15:39:29.115 [35mINFO [0;39m -6 1777 [DESKTOP-ILCGKPF] [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-10-28 15:39:29.122 [35mINFO [0;39m -6 1784 [DESKTOP-ILCGKPF] [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-28 15:39:29.122 [35mINFO [0;39m -6 1784 [DESKTOP-ILCGKPF] [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-28 15:39:29.123 [35mINFO [0;39m -6 1785 [DESKTOP-ILCGKPF] [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-28 15:39:29.240 [35mINFO [0;39m -6 1902 [DESKTOP-ILCGKPF] [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-28 15:39:29.241 [35mINFO [0;39m -6 1903 [DESKTOP-ILCGKPF] [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 736 ms
+2019-10-28 15:39:29.270 [35mINFO [0;39m -6 1932 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - post construct execute!!
+2019-10-28 15:39:29.270 [35mINFO [0;39m -6 1932 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - post construct execute111!!
+2019-10-28 15:39:29.364 [35mINFO [0;39m -6 2026 [DESKTOP-ILCGKPF] [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-28 15:39:29.545 [35mINFO [0;39m -6 2207 [DESKTOP-ILCGKPF] [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-10-28 15:39:29.562 [35mINFO [0;39m -6 2224 [DESKTOP-ILCGKPF] [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-28 15:39:29.565 [35mINFO [0;39m -6 2227 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - Started LogbackApplication in 1.438 seconds (JVM running for 3.939)
+2019-10-28 15:40:27.950 [35mINFO [0;39m -6 60612 [DESKTOP-ILCGKPF] [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-10-28 15:40:27.952 [35mINFO [0;39m -6 60614 [DESKTOP-ILCGKPF] [RMI TCP Connection(2)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-28 15:40:34.570 INFO  1272 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - Starting LogbackApplication on DESKTOP-ILCGKPF with PID 6580 (E:\DEV\sts\logback\bin\main started by BISHOP in E:\DEV\sts\logback)
+2019-10-28 15:40:34.575 INFO  1277 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - No active profile set, falling back to default profiles: default
+2019-10-28 15:40:35.236 INFO  1938 [DESKTOP-ILCGKPF] [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-10-28 15:40:35.245 INFO  1947 [DESKTOP-ILCGKPF] [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-28 15:40:35.245 INFO  1947 [DESKTOP-ILCGKPF] [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-28 15:40:35.246 INFO  1948 [DESKTOP-ILCGKPF] [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-10-28 15:40:35.428 INFO  2130 [DESKTOP-ILCGKPF] [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-28 15:40:35.428 INFO  2130 [DESKTOP-ILCGKPF] [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 797 ms
+2019-10-28 15:40:35.475 INFO  2177 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - post construct execute!!
+2019-10-28 15:40:35.475 INFO  2177 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - post construct execute111!!
+2019-10-28 15:40:35.588 INFO  2290 [DESKTOP-ILCGKPF] [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-28 15:40:35.801 INFO  2503 [DESKTOP-ILCGKPF] [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2019-10-28 15:40:35.823 INFO  2525 [DESKTOP-ILCGKPF] [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-28 15:40:35.826 INFO  2528 [DESKTOP-ILCGKPF] [main] com.ha.LogbackApplication - Started LogbackApplication in 1.673 seconds (JVM running for 4.556)
+2019-10-28 15:46:58.915 INFO  385617 [DESKTOP-ILCGKPF] [RMI TCP Connection(2)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-10-28 15:46:58.918 INFO  385620 [DESKTOP-ILCGKPF] [RMI TCP Connection(2)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
