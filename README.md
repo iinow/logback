@@ -1,4 +1,6 @@
-# logback 작성법 :star_struck:
+# logback 작성법 
+
+:star_struck:
 
 위 프로젝트는 logback.groovy 로 작성되어 있습니다. 
 
